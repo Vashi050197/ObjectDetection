@@ -3,5 +3,6 @@ Object Detection is security tool and find suspicious objects and provide alerts
 
 # Usage
 click on the Google colab link!
+Open In Colab (recommended)
 
 
